@@ -32,7 +32,7 @@
 | Layer | Technologies |
 | :--- | :--- |
 | **Backend** | Python, FastAPI, SQLAlchemy, SQLite/PostgreSQL |
-| **AI Engine** | Gemini 1.5 Pro / OpenAI GPT-4o, Groq (Inference) |
+| **AI Engine** | Groq (Inference) |
 | **Integrations** | Google OAuth 2.0, Gmail API, Calendar API, Drive API |
 | **Task Queue** | APScheduler (Reminders & Cleanup) |
 | **Frontend** | React 19, Vite, Tailwind CSS 4, Axios |
