@@ -38,3 +38,17 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+
+# Build / cache
+build/
+.cache/
+
+# Mac system junk (extra safety)
+.DS_Store?
+
+# Coverage / testing
+.coverage
+htmlcov/
+
+# Misc
+*.pid
